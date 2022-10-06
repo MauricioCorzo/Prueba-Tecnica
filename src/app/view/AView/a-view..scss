@@ -1,0 +1,32 @@
+.a-view {
+  background-color: rgb(216, 174, 174);
+    .a-container {
+      font-size: 160px;
+      width: 100%;
+      top:15%;
+      transform: translateY(-50%);
+      text-align: center;
+      position: absolute;
+    }
+    .a-btn {
+      font-size: 60px;
+      width: auto;
+      top:70%;
+      padding: 1rem;
+      transform: translateY(-50%);
+      text-align: center;
+      position: absolute;
+      margin-left: 42%;
+      cursor: pointer;
+    }
+    #a-number {
+      font-size: 60px;
+      width: 20%;
+      top:50%;
+      padding: 1rem;
+      transform: translateY(-50%);
+      text-align: center;
+      position: absolute;
+      margin-left: 39%;
+    }
+  }

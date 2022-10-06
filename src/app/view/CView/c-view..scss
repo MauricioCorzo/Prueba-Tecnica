@@ -1,0 +1,107 @@
+.c-view {
+    background-color: rgb(249, 237, 188);
+      .c-container {
+        font-size: 160px;
+        color: rgb(218, 117, 134);
+        font-weight: 200;
+        width: 100%;
+        top:15%;
+        transform: translateY(-50%);
+        text-align: center;
+        position: absolute;
+      }
+      .c-container-number {
+        color: rgb(238, 76, 103);
+        font-weight: 200;
+        font-size: 100px;
+        width: 100%;
+        top:35%;
+        transform: translateY(-50%);
+        text-align: center;
+        position: absolute;
+      }
+      .c-btn-swap {
+        font-size: 60px;
+        width: auto;
+        top:52%;
+        padding: 1rem 4rem;
+        transform: translateY(-50%);
+        text-align: center;
+        position: absolute;
+        margin-left: 42%;
+        background-color: rgba(226, 215, 255, 0.447);
+        border-color: rgb(124, 105, 221);
+        border-style: solid;
+        cursor: pointer;
+      }
+      .c-btn-siguiente {
+        font-size: 60px;
+        width: auto;
+        top:90%;
+        padding: 1rem;
+        transform: translateY(-50%);
+        text-align: center;
+        position: absolute;
+        margin-left: 42%;
+        background-color: rgba(226, 215, 255, 0.447);
+        border-color: rgb(124, 105, 221);
+        border-style: solid;
+        cursor: pointer;
+      }
+      .c-btn-siguiente2 {
+        font-size: 60px;
+        width: auto;
+        top:90%;
+        padding: 1rem;
+        transform: translateY(-50%);
+        text-align: center;
+        position: absolute;
+        margin-left: 42%;
+        background-color: rgba(130, 209, 235, 0.643);
+        border-color: rgb(39, 103, 121);
+        border-style: solid;
+        cursor: pointer;
+      }
+      .c-btn-reiniciar {
+        font-size: 60px;
+        width: auto;
+        top:71%;
+        padding: 1rem 1.5rem;
+        transform: translateY(-50%);
+        text-align: center;
+        position: absolute;
+        margin-left: 42%;
+        background-color: rgba(255, 197, 204, 0.694);
+        border-color: rgb(215, 95, 109);
+        cursor: pointer;
+      }
+      .c-btn-reiniciar2 {
+        font-size: 60px;
+        width: auto;
+        top:71%;
+        padding: 1rem 1.5rem;
+        transform: translateY(-50%);
+        text-align: center;
+        position: absolute;
+        margin-left: 42%;
+        background-color: rgba(195, 241, 183, 0.84);
+        border-color: rgb(113, 184, 83);
+        cursor: pointer;
+      }
+    }
+
+    .c-btn-swap:hover{
+      background-color: rgba(180, 155, 248, 0.447);
+    }
+    .c-btn-siguiente:hover {
+      background-color: rgba(180, 155, 248, 0.447);
+    }
+    .c-btn-siguiente2:hover {
+      background-color: rgba(83, 199, 238, 0.643);
+    }
+    .c-btn-reiniciar:hover{
+      background-color: rgba(251, 135, 149, 0.694);
+    }
+    .c-btn-reiniciar2:hover{
+      background-color: rgba(151, 223, 133, 0.84);
+    }

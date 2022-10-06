@@ -1,0 +1,30 @@
+.b-view {
+  background-color: rgb(102, 191, 143);
+    .b-container {
+      font-size: 160px;
+      width: 100%;
+      top:15%;
+      transform: translateY(-50%);
+      text-align: center;
+      position: absolute;
+    }
+    .b-container-number {
+      font-size: 100px;
+      width: 100%;
+      top:35%;
+      transform: translateY(-50%);
+      text-align: center;
+      position: absolute;
+    }
+    .b-btn {
+      font-size: 60px;
+      width: auto;
+      top:70%;
+      padding: 1rem;
+      transform: translateY(-50%);
+      text-align: center;
+      position: absolute;
+      margin-left: 42%;
+      cursor: pointer;
+    }
+  }
